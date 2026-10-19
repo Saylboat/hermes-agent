@@ -1,2 +1,2 @@
 # hermes-agent
-Personal Hermes Agent Setup
+This is for my personal Hermes Agent
