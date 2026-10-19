@@ -1,0 +1,1 @@
+This app is a personal tool used only by its developer. It accesses the developer's own Gmail and Google Calendar data to power a private AI agent. No data is collected from, shared with, or sold to any third party, and no other users are served.
